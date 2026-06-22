@@ -2,6 +2,8 @@
 
 Thank you for caring enough about the place we build in to want to improve how it is described. This is a manifesto — a piece of writing, not a piece of software — so contributing here is less about code and more about language, clarity, and the ideas the words carry. The bar is simple: does your change help the manifesto say what it means more truthfully, or more clearly, to the people and agents who will read it?
 
+By taking part, you agree to uphold our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## What contributions are welcome
 
 - **Clarity and wording.** Tightening a sentence, fixing an awkward phrase, correcting a typo, or making a principle land more cleanly without changing its meaning.

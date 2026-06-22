@@ -39,3 +39,7 @@ That is, while there is real value in the items on the right — a habitat that 
 ## License
 
 The Habitat Thinking Manifesto © 2026 Russ Miles is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt this work, even commercially, as long as you give appropriate credit and license your adaptations under the same terms. See [LICENSE](LICENSE) for the full text.
+
+## Contributing
+
+This is a living document, and disagreement argued in good faith is how it stays alive. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose changes, and our [Code of Conduct](CODE_OF_CONDUCT.md) for the standards we hold the conversation to.
