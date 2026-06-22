@@ -35,3 +35,7 @@ That is, while there is real value in the items on the right — a habitat that 
 **Protect the friction that makes minds update.** Understanding is a model in a mind that only changes when that mind predicts and reality corrects it. An agent that holds the theory on your behalf does not reduce cognitive debt; it hides it. Keep the inhabitants in the loop often enough that their hunches still fire when an unfamiliar incident wakes them at three in the morning.
 
 **Tend the place deliberately, and often.** The best dwellings are not monuments designed from above; they grow to serve the people who live in them. At regular intervals the inhabitants examine not only the output but the place itself — its constraints, its observability, the rooms where thinking has outrun tooling or tooling has outrun thinking — and adjust the habitat accordingly.
+
+## License
+
+The Habitat Thinking Manifesto © 2026 Russ Miles is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt this work, even commercially, as long as you give appropriate credit and license your adaptations under the same terms. See [LICENSE](LICENSE) for the full text.
