@@ -44,6 +44,12 @@ Because of that, this document is non-prescriptive by design. It tells you what 
 
 **Tend the place deliberately, and often.** The best dwellings are not monuments designed from above; they grow to serve the people who live in them. At regular intervals the inhabitants examine not only the output but the place itself — its constraints, its observability, the rooms where thinking has outrun tooling or tooling has outrun thinking — and adjust the habitat accordingly.
 
+## Working from here
+
+A compass is not an itinerary, and a statement of values that offers nothing to work on is only ever assented to. A companion piece carries this into practice, and it is not a rulebook.
+
+The operational ladder and the habitat maturity model ([the AI Readiness Assessment](https://techtalk.github.io/ai-readiness-assessment/)) supply the puzzles: where a team currently sits, what the place would have to become for it to sit a rung higher, and the gap between what a team can think and what its habitat can support. Those are the questions a leader unpacks with their own people. Nobody else can answer them from outside the room.
+
 ## License
 
 The Habitat Thinking Manifesto © 2026 Russ Miles is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt this work, even commercially, as long as you give appropriate credit and license your adaptations under the same terms. See [LICENSE](LICENSE) for the full text.
