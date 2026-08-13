@@ -50,19 +50,11 @@ Look through it and three things change shape.
 
 **The outcome.** The place is working when every kind of intelligence in it is thinking well, and the people in it still understand the system they are responsible for as it changes. Those are two achievements, not one, and only the first can be handed to something else. Throughput is evidence, not the goal — and on its own it is evidence of very little.
 
-That last one is the sharp end. Under the productivity frame, a team shipping faster while understanding less is a success story. Through this lens it is the failure the lens exists to make visible. Once the room is the unit, most of the familiar measures turn out to be measuring a part and reporting on the whole — and the leverage moves with them, out of the prompt and into the standing conditions of the place: its constraints, its observability, its friction.
+Under the productivity frame, a team shipping faster while understanding less is a success story. Through the habitability lens it is the failure the lens exists to make visible. Once the room is the unit, most of the familiar measures turn out to be measuring a part and reporting on the whole — and the leverage moves with them, out of the prompt and into the standing conditions of the place: its constraints, its observability, its friction.
 
 You can usually see it before you can measure it. A change lands and the review approves what nobody in the room could explain unprompted. An incident runs long because the only account of why the system was built this way sits in a transcript nobody kept. A team ships steadily and quietly loses the ability to rebuild what it owns. None of these register as a failure of delivery. All of them are the place going wrong.
 
-The room nests. A team is a room; an organisation is a building of them. The question does not change with scale — can every kind of intelligence here think well, and keep thinking well together — but the answer stops being a single answer, and the honest unit is the smallest group that shares enough context for one answer to be true of all of them. Buildings have shared conditions too: whatever the organisation makes cheap or expensive to do lands in every room inside it.
-
-## What this owes
-
-The Agile Manifesto got the hard part right, and it still holds. Software is made by people; the arrangements between them matter more than the documents they produce; and responding to change beats a plan followed past the point of usefulness. Nothing here overturns any of that.
-
-What it could not have anticipated is a second kind of inhabitant — one that participates in the making, at volume, and cannot be where the understanding finally rests. Individuals and interactions still come first, but the room now holds something that is neither an individual nor a tool, and the instinct that put people at the centre has to be extended rather than replaced. Working software still matters; it has simply stopped being evidence that anyone understands what was built.
-
-So this is not a successor, and it is not a correction. It is the same instinct, carried into a room that has acquired an occupant the original authors had no reason to imagine.
+The room nests. A team is a room; an organisation is a building of them. The question does not change with scale — can every kind of intelligence here think well, and keep thinking well together.
 
 ## Working from here
 
