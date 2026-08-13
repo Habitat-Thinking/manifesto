@@ -52,6 +52,8 @@ That last one is the sharp end. Under the productivity frame, a team shipping fa
 
 You can usually see it before you can measure it. A change lands and the review approves what nobody in the room could explain unprompted. An incident runs long because the only account of why the system was built this way sits in a transcript nobody kept. A team ships steadily and quietly loses the ability to rebuild what it owns. None of these register as a failure of delivery. All of them are the place going wrong.
 
+The room nests. A team is a room; an organisation is a building of them. The question does not change with scale — can the people here think well, and keep thinking well — but the answer stops being a single answer, and the honest unit is the smallest group that shares enough context for one answer to be true of all of them. Buildings have shared conditions too: whatever the organisation makes cheap or expensive to do lands in every room inside it.
+
 ## Working from here
 
 A lens tells you what to attend to; it does not tell you what to do on Monday. That is not a gap in the document — it is what a lens is, and what to do about your room depends on standing in it. A companion piece carries this into practice, and it is not a rulebook.
