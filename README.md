@@ -1,6 +1,6 @@
 # The Habitat Thinking Manifesto
 
-Building places where every kind of intelligence in the room can think well together. A companion to the Agile Manifesto, written for the era in which the place we build in has acquired a second kind of inhabitant.
+Building places where every kind of intelligence in the room can think well together. Written for the era in which the place we build in has acquired a second kind of inhabitant.
 
 Something has changed about the rooms we build software in. The work was always more than typing — it was understanding held in people's heads, decisions argued into shape, a shared sense of why the system is the way it is. Now there is a new kind of collaborator in that room: tireless, fluent, generating faster than anyone can read. What has broken is the assumption underneath every delivery metric we have: that if the work is getting done, someone understands it. Comprehension has come loose from delivery, and no amount of tuning the pipeline puts it back. The question is no longer whether it belongs. It does. The question is how we build a place — for the people and the agents both — where everyone can think well together and the understanding that keeps a system alive does not quietly leak away.
 
