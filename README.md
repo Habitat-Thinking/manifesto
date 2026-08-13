@@ -22,6 +22,14 @@ Habitat Thinking treats that whole place — the people, the agents, the relatio
 
 That is, while there is real value in the items on the right — a habitat that neglects them is no habitat at all — we value the items on the left more.
 
+## What this is
+
+This is not a method. It changes the unit of analysis — from the artefact to the place — and therefore what counts as a problem, what counts as a success, and what counts as a fix. Under the productivity frame, a team shipping faster while understanding less is a success story. Here it is the failure the frame exists to make visible. Once the room is the unit, most of the familiar measures turn out to be measuring a part and reporting on the whole.
+
+What follows is a different set of moves. You intervene on constraints, observability, and friction rather than on prompts. You inspect and adjust the place rather than tune it, because a habitat is tended and a factory is optimised, and the two do not respond to the same treatment. And you judge the result over tool generations rather than sprints, because orientation is the only part of this that survives the next model release.
+
+Because of that, this document is non-prescriptive by design. It tells you what to attend to, not what to do on Monday. That is not evasion; it is the difference between a compass and a set of walking directions. Directions expire when the terrain changes, and the terrain is currently changing every few months.
+
 ## Principles
 
 **The habitat is the whole room, not the repository.** Code is one artefact in it. The place is the people and the agents, the relationships between them, the understanding they share, and the way they think together. Design for the room, and the code takes care of more than you expect; design only for the code, and the room slowly stops being one.
