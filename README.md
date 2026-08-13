@@ -75,3 +75,7 @@ The Habitat Thinking Manifesto © 2026 Russ Miles is licensed under [CC BY-SA 4.
 ## Contributing
 
 This is a living document, and disagreement argued in good faith is how it stays alive. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose changes, and our [Code of Conduct](CODE_OF_CONDUCT.md) for the standards we hold the conversation to.
+
+## Version
+
+Version 1.0, August 2026. The document is expected to change. Cite the version you agreed with: disagreement is only useful when it can be traced to what it disagreed with.
