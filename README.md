@@ -22,14 +22,6 @@ Habitat Thinking treats that whole place — the people, the agents, the relatio
 
 That is, while there is real value in the items on the right — a habitat that neglects them is no habitat at all — we value the items on the left more.
 
-## What this is
-
-This is not a method. It changes the unit of analysis — from the artefact to the place — and therefore what counts as a problem, what counts as a success, and what counts as a fix. Under the productivity frame, a team shipping faster while understanding less is a success story. Here it is the failure the frame exists to make visible. Once the room is the unit, most of the familiar measures turn out to be measuring a part and reporting on the whole.
-
-What follows is a different set of moves. You intervene on constraints, observability, and friction rather than on prompts. You inspect and adjust the place rather than tune it, because a habitat is tended and a factory is optimised, and the two do not respond to the same treatment. And you judge the result over tool generations rather than sprints, because orientation is the only part of this that survives the next model release.
-
-Because of that, this document is non-prescriptive by design. It tells you what to attend to, not what to do on Monday. That is not evasion; it is the difference between a compass and a set of walking directions. Directions expire when the terrain changes, and the terrain is currently changing every few months.
-
 ## Principles
 
 **The habitat is the whole room, not the repository.** Code is one artefact in it. The place is the people and the agents, the relationships between them, the understanding they share, and the way they think together. Design for the room, and the code takes care of more than you expect; design only for the code, and the room slowly stops being one.
@@ -44,9 +36,23 @@ Because of that, this document is non-prescriptive by design. It tells you what 
 
 **Tend the place deliberately, and often.** The best dwellings are not monuments designed from above; they grow to serve the people who live in them. At regular intervals the inhabitants examine not only the output but the place itself — its constraints, its observability, the rooms where thinking has outrun tooling or tooling has outrun thinking — and adjust the habitat accordingly.
 
+## What this is
+
+Habitat Thinking is a lens. It puts the room — the people, the agents, the code, the conventions, the feedback loops — in the frame as a single thing, and asks of it what you'd ask of anywhere you had to live: can the people here think well, and keep thinking well?
+
+Look through it and three things change shape.
+
+**The system.** Not a codebase with people attached to it, but a place with a codebase in it. Code is one artefact among the understanding, the conventions, and the habits of attention that produced it, and it is the only one of those you can read from outside the room.
+
+**The relationships.** Agents stop being tools you direct and become inhabitants whose collaboration you design. The interesting questions move from what you asked the model to what the arrangement between you reliably produces — which decisions surface, which surprises get captured, where answerability comes to rest.
+
+**The outcome.** The place is working when the people in it understand the system they are responsible for and keep understanding it as it changes. Throughput is evidence, not the goal — and on its own it is evidence of very little.
+
+That last one is the sharp end. Under the productivity frame, a team shipping faster while understanding less is a success story. Through this lens it is the failure the lens exists to make visible. Once the room is the unit, most of the familiar measures turn out to be measuring a part and reporting on the whole — and the leverage moves with them, out of the prompt and into the standing conditions of the place: its constraints, its observability, its friction.
+
 ## Working from here
 
-A compass is not an itinerary, and a statement of values that offers nothing to work on is only ever assented to. A companion piece carries this into practice, and it is not a rulebook.
+A lens tells you what to attend to; it does not tell you what to do on Monday. That is not a gap in the document — it is what a lens is, and what to do about your room depends on standing in it. A companion piece carries this into practice, and it is not a rulebook.
 
 The operational ladder and the habitat maturity model ([the AI Readiness Assessment](https://techtalk.github.io/ai-readiness-assessment/)) supply the puzzles: where a team currently sits, what the place would have to become for it to sit a rung higher, and the gap between what a team can think and what its habitat can support. Those are the questions a leader unpacks with their own people. Nobody else can answer them from outside the room.
 
