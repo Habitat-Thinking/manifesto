@@ -50,6 +50,8 @@ Look through it and three things change shape.
 
 That last one is the sharp end. Under the productivity frame, a team shipping faster while understanding less is a success story. Through this lens it is the failure the lens exists to make visible. Once the room is the unit, most of the familiar measures turn out to be measuring a part and reporting on the whole — and the leverage moves with them, out of the prompt and into the standing conditions of the place: its constraints, its observability, its friction.
 
+You can usually see it before you can measure it. A change lands and the review approves what nobody in the room could explain unprompted. An incident runs long because the only account of why the system was built this way sits in a transcript nobody kept. A team ships steadily and quietly loses the ability to rebuild what it owns. None of these register as a failure of delivery. All of them are the place going wrong.
+
 ## Working from here
 
 A lens tells you what to attend to; it does not tell you what to do on Monday. That is not a gap in the document — it is what a lens is, and what to do about your room depends on standing in it. A companion piece carries this into practice, and it is not a rulebook.
