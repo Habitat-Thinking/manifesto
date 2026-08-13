@@ -54,6 +54,14 @@ You can usually see it before you can measure it. A change lands and the review 
 
 The room nests. A team is a room; an organisation is a building of them. The question does not change with scale — can the people here think well, and keep thinking well — but the answer stops being a single answer, and the honest unit is the smallest group that shares enough context for one answer to be true of all of them. Buildings have shared conditions too: whatever the organisation makes cheap or expensive to do lands in every room inside it.
 
+## What this owes
+
+The Agile Manifesto got the hard part right, and it still holds. Software is made by people; the arrangements between them matter more than the documents they produce; and responding to change beats a plan followed past the point of usefulness. Nothing here overturns any of that.
+
+What it could not have anticipated is a second kind of inhabitant — one that participates in the making, at volume, and cannot be where the understanding finally rests. Individuals and interactions still come first, but the room now holds something that is neither an individual nor a tool, and the instinct that put people at the centre has to be extended rather than replaced. Working software still matters; it has simply stopped being evidence that anyone understands what was built.
+
+So this is not a successor, and it is not a correction. It is the same instinct, carried into a room that has acquired an occupant the original authors had no reason to imagine.
+
 ## Working from here
 
 A lens tells you what to attend to; it does not tell you what to do on Monday. That is not a gap in the document — it is what a lens is, and what to do about your room depends on standing in it. A companion piece carries this into practice, and it is not a rulebook.
