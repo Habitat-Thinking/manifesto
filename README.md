@@ -20,7 +20,7 @@ Habitat Thinking treats that whole place — the people, the agents, the relatio
 
 **Accountability that rests with people** over assurance manufactured by the place
 
-That is, while there is real value in the items on the right — a habitat that neglects them is no habitat at all — we value the items on the left more.
+None of that is a rejection of what sits on the right — a habitat that neglects it is no habitat at all. But where the two pull against each other, the left is what we protect.
 
 ## Principles
 
