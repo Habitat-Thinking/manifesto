@@ -38,7 +38,9 @@ That is, while there is real value in the items on the right — a habitat that 
 
 ## What this is
 
-Habitat Thinking is a lens. It puts the room — the people, the agents, the code, the conventions, the feedback loops — in the frame as a single thing, and asks of it what you'd ask of anywhere you had to live: can the people here think well, and keep thinking well?
+Habitat Thinking is a lens. It puts the room — the people, the agents, the code, the conventions, the feedback loops — in the frame as a single thing, and asks of it what you'd ask of anywhere you had to live: can every kind of intelligence here think well, and keep thinking well together?
+
+Both kinds of mind are in scope, and the place serves them differently. A person thinks well here when they can still predict what the system will do and be corrected when they are wrong. An agent thinks well here when the room makes what it needs discoverable — the constraints legible, the conventions stated rather than assumed, the feedback fast enough to land inside the work. Neither is served by a place built only for the other, and a room that has become unreadable to one is usually already degrading for both.
 
 Look through it and three things change shape.
 
@@ -46,13 +48,13 @@ Look through it and three things change shape.
 
 **The relationships.** Agents stop being tools you direct and become inhabitants whose collaboration you design. The interesting questions move from what you asked the model to what the arrangement between you reliably produces — which decisions surface, which surprises get captured, where answerability comes to rest.
 
-**The outcome.** The place is working when the people in it understand the system they are responsible for and keep understanding it as it changes. Throughput is evidence, not the goal — and on its own it is evidence of very little.
+**The outcome.** The place is working when every kind of intelligence in it is thinking well, and the people in it still understand the system they are responsible for as it changes. Those are two achievements, not one, and only the first can be handed to something else. Throughput is evidence, not the goal — and on its own it is evidence of very little.
 
 That last one is the sharp end. Under the productivity frame, a team shipping faster while understanding less is a success story. Through this lens it is the failure the lens exists to make visible. Once the room is the unit, most of the familiar measures turn out to be measuring a part and reporting on the whole — and the leverage moves with them, out of the prompt and into the standing conditions of the place: its constraints, its observability, its friction.
 
 You can usually see it before you can measure it. A change lands and the review approves what nobody in the room could explain unprompted. An incident runs long because the only account of why the system was built this way sits in a transcript nobody kept. A team ships steadily and quietly loses the ability to rebuild what it owns. None of these register as a failure of delivery. All of them are the place going wrong.
 
-The room nests. A team is a room; an organisation is a building of them. The question does not change with scale — can the people here think well, and keep thinking well — but the answer stops being a single answer, and the honest unit is the smallest group that shares enough context for one answer to be true of all of them. Buildings have shared conditions too: whatever the organisation makes cheap or expensive to do lands in every room inside it.
+The room nests. A team is a room; an organisation is a building of them. The question does not change with scale — can every kind of intelligence here think well, and keep thinking well together — but the answer stops being a single answer, and the honest unit is the smallest group that shares enough context for one answer to be true of all of them. Buildings have shared conditions too: whatever the organisation makes cheap or expensive to do lands in every room inside it.
 
 ## What this owes
 
