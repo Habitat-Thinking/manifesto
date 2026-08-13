@@ -1,0 +1,41 @@
+name: Link check
+
+# The manifesto argues that orientation should outlive the tools it is written
+# alongside. Its outbound links will not, unless something checks them. This
+# runs on every change and again weekly, because link rot is a slow failure
+# that no pull request will ever surface on its own.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    # Mondays, 09:00 UTC — catches rot that accumulated while nobody was editing.
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    name: Check markdown links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Check every link in every markdown file
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          # Relative links (LICENSE, CONTRIBUTING.md) are resolved against the
+          # checkout, so a renamed file fails here rather than in a reader's browser.
+          args: >-
+            --no-progress
+            --verbose
+            --max-retries 3
+            './**/*.md'
+          fail: true
+        env:
+          # Avoids anonymous rate limiting when a link points at GitHub itself.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
