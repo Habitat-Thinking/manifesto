@@ -60,7 +60,7 @@ The room nests. A team is a room; an organisation is a building of them. The que
 
 A lens tells you what to attend to; it does not tell you what to do on Monday. That is not a gap in the document — it is what a lens is, and what to do about your room depends on standing in it. A companion piece carries this into practice, and it is not a rulebook.
 
-The operational ladder and the habitat maturity model ([the AI Readiness Assessment](https://techtalk.github.io/ai-readiness-assessment/)) supply the puzzles: where a team currently sits, what the place would have to become for it to sit a rung higher, and the gap between what a team can think and what its habitat can support. Those are the questions a leader unpacks with their own people. Nobody else can answer them from outside the room.
+The operational ladder and the habitat maturity model ([the AI Readiness Assessment](https://techtalk.github.io/ai-readiness-assessment/)) supply the puzzles: whether a team's habitat can safely carry the work it actually has, whether each piece of work is being done in a way that fits it, and the gap between what a team can think and what its habitat can support. Those are the questions a leader unpacks with their own people. Nobody else can answer them from outside the room.
 
 ## License
 
