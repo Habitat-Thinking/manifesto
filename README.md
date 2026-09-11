@@ -76,4 +76,4 @@ This is a living document, and disagreement argued in good faith is how it stays
 
 ## Version
 
-Version 1.0, August 2026. The document is expected to change. Cite the version you agreed with: disagreement is only useful when it can be traced to what it disagreed with.
+Version 1.1, September 2026. The document is expected to change. Cite the version you agreed with: disagreement is only useful when it can be traced to what it disagreed with. See [CHANGELOG.md](CHANGELOG.md) for what changed between versions.
