@@ -28,7 +28,7 @@ None of that is a rejection of what sits on the right — a habitat that neglect
 
 **Optimise for orientation that outlives the tools.** Models, harnesses, and vendors will turn over faster than anyone can keep up with. The compass must not: how you keep people understanding the system, accountable for it, and at home in it is the part worth carrying across every tool generation. Tactics are rented; orientation is owned.
 
-**Understanding is a deliverable, not a bottleneck.** The instinct to route the human out of the loop treats comprehension as friction to be designed away. But a place that ships working software while its people grow steadily more ignorant has not succeeded — it has become a house no one can find their way around in the dark.
+**Understanding is a deliverable, not a bottleneck.** The instinct to route the human out of the loop treats comprehension as friction to be designed away. But a place that ships working software while its people grow steadily more ignorant has not succeeded — it has become a house no one can find their way around in the dark. Not every change needs to be understood in the same way, but every system needs people who still understand it.
 
 **Agents keep understanding cheap; people stay accountable.** An agent can and should own the labour that keeps a human's mental model affordable to sustain — surfacing decisions, writing the choice story, capturing surprise, flagging drift. But answerability must terminate in a human or an organisation. An agent made accountable for human understanding is an accountability sink: a way of laundering answerability into part of the habitat that structurally cannot hold it.
 
