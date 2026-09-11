@@ -32,6 +32,8 @@ None of that is a rejection of what sits on the right — a habitat that neglect
 
 **Agents keep understanding cheap; people stay accountable.** An agent can and should own the labour that keeps a human's mental model affordable to sustain — surfacing decisions, writing the choice story, capturing surprise, flagging drift. But answerability must terminate in a human or an organisation. An agent made accountable for human understanding is an accountability sink: a way of laundering answerability into part of the habitat that structurally cannot hold it.
 
+**Anyone can steer the work; answering for it takes understanding.** A good habitat lets people say what they want, see whether it arrived, and learn the territory as they go, whether or not they ever read the code. It never lets them carry answerability their understanding cannot yet reach. That stays with someone who can.
+
 **Protect the friction that makes minds update.** Understanding is a model in a mind that only changes when that mind predicts and reality corrects it. An agent that holds the theory on your behalf does not reduce cognitive debt; it hides it. Keep the inhabitants in the loop often enough that their hunches still fire when an unfamiliar incident wakes them at three in the morning.
 
 **Let the work choose how it is done.** Some work wants a quick sketch, some wants careful craft, and some can be delegated and shown to be right by evidence. A good habitat offers that range safely: freedom where a mistake is cheap to put right, rigour where it is not. And it notices when a piece of work moves from one to the other.
@@ -42,7 +44,7 @@ None of that is a rejection of what sits on the right — a habitat that neglect
 
 Habitat Thinking is a lens. It puts the room — the people, the agents, the code, the conventions, the feedback loops — in the frame as a single thing, and asks of it what you'd ask of anywhere you had to live: can every kind of intelligence here think well, and keep thinking well together?
 
-Both kinds of mind are in scope, and the place serves them differently. A person thinks well here when they can still predict what the system will do and be corrected when they are wrong. An agent thinks well here when the room makes what it needs discoverable — the constraints legible, the conventions stated rather than assumed, the feedback fast enough to land inside the work. Neither is served by a place built only for the other, and a room that has become unreadable to one is usually already degrading for both.
+Both kinds of mind are in scope, and the place serves them differently. A person thinks well here when they can still predict what the system will do and be corrected when they are wrong, whether they build the system or steer it. An agent thinks well here when the room makes what it needs discoverable — the constraints legible, the conventions stated rather than assumed, the feedback fast enough to land inside the work. Neither is served by a place built only for the other, and a room that has become unreadable to one is usually already degrading for both.
 
 Look through it and three things change shape.
 
