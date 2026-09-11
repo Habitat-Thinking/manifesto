@@ -34,6 +34,8 @@ None of that is a rejection of what sits on the right — a habitat that neglect
 
 **Protect the friction that makes minds update.** Understanding is a model in a mind that only changes when that mind predicts and reality corrects it. An agent that holds the theory on your behalf does not reduce cognitive debt; it hides it. Keep the inhabitants in the loop often enough that their hunches still fire when an unfamiliar incident wakes them at three in the morning.
 
+**Let the work choose how it is done.** Some work wants a quick sketch, some wants careful craft, and some can be delegated and shown to be right by evidence. A good habitat offers that range safely: freedom where a mistake is cheap to put right, rigour where it is not. And it notices when a piece of work moves from one to the other.
+
 **Tend the place deliberately, and often.** The best dwellings are not monuments designed from above; they grow to serve the people who live in them. At regular intervals the inhabitants examine not only the output but the place itself — its constraints, its observability, the rooms where thinking has outrun tooling or tooling has outrun thinking — and adjust the habitat accordingly.
 
 ## What this is
